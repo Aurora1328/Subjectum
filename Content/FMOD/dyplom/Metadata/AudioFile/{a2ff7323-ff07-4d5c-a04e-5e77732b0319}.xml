@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a2ff7323-ff07-4d5c-a04e-5e77732b0319}">
+		<property name="assetPath">
+			<value>FEETHmn-HARDWOOD FLOOR_Footsteps With Tennis Shoes On Hardwood Floor 37_AUDIOELK_NONE.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6385000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0b5b74b0-0c09-4997-9215-a4e248a612d8}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e70e4168-9007-4d75-842d-8b7f15ffbab8}">
+		<property name="assetPath">
+			<value>Parquet_  (1).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.114</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0b5b74b0-0c09-4997-9215-a4e248a612d8}</destination>
+		</relationship>
+	</object>
+</objects>

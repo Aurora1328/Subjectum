@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{8a5807aa-3bb0-4203-8b92-fb1af413166d}">
+		<property name="builtBanksOutputDirectory">
+			<value>E:/CDV/5 sem/Dyplom/Новая папка/Subjectum/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{d8695e56-c488-4d3c-90fe-0cce21e2635f}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{c01f3f6d-a439-48d1-8b8f-4a8c9836a2ae}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{c3a53a2a-df28-48f8-aa97-ef2d4f4fa510}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{2658878c-553a-42b6-810b-1932f9c46078}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{20216457-b262-4bd5-814f-53bed693a4ab}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{17942bad-266d-4bb4-bfed-bbbaec32752b}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{0b5b74b0-0c09-4997-9215-a4e248a612d8}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{b5626472-cfac-40d3-a430-2253abe6df13}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{a29797a1-8c6f-4b7a-a347-f5a000483f65}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{9cff9d7d-db8e-47f8-b468-c922d2cf112e}</destination>
+		</relationship>
+	</object>
+</objects>
